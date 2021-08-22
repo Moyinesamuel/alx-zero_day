@@ -1,1 +1,1 @@
-This is all about learning how to use *github*
+This is all about learning how to use *github* and it's been great!
